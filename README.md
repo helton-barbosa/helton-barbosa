@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Helton-NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img align="center" alt="Helton-ExpressJS" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img align="center" alt="Helton-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img align="center" alt="Helton-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <!--<img align="center" alt="Helton-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">-->
     <img align="center" alt="Helton-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   </div>
   <div align="center" style="display: inline_block"><br>
